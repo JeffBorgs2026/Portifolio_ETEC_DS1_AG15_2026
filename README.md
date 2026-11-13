@@ -1,7 +1,7 @@
 # Portfólio Profissional — Jefferson Borges Calaça
 
 ## Nome do Aluno
-Jefferson Borges Calaça ([@JeffBorgs](https://github.com/JeffBorgs))
+Jefferson Borges Calaça ([@JeffBorgs](https://github.com/JeffBorgs2026))
 
 ## Descrição do Portfólio
 Projeto de portfólio pessoal responsivo desenvolvido para a disciplina de **Desenvolvimento de Sistemas I (Agenda 15 - ETEC)**. O objetivo do site é apresentar minha trajetória acadêmica multidisciplinar (Desenvolvimento de Sistemas, Gestão de Marketing, Design Gráfico e Segurança do Trabalho), minhas competências técnicas e os projetos desenvolvidos ao longo da formação.
@@ -15,7 +15,7 @@ Projeto de portfólio pessoal responsivo desenvolvido para a disciplina de **Des
 
 ## Link do Site Publicado
 Acesse o portfólio online pelo GitHub Pages:  
-👉 [https://jeffborgs.github.io/portfolio/](https://jeffborgs.github.io/portfolio/)
+👉 [https://jeffborgs.github.io/portfolio/](https://jeffborgs2026.github.io/Portif-lio_ETEC_DS1_AG15_2026/)
 
 ## Explicação do Funcionamento do Projeto
 O site funciona como uma página única (*Single Page*) com rolagem suave (`scroll-behavior: smooth`). No topo, uma barra de navegação fixa (`sticky-top`) adapta-se automaticamente a telas de celulares e computadores, permitindo saltar diretamente para qualquer seção por meio de âncoras internas (`#perfil`, `#formacao`, `#projetos` e `#contato`). Logo abaixo do menu, um carousel exibe slides de destaque com controles manuais e automáticos, seguido pelas áreas informativas organizadas em grids responsivos e encerradas por um rodapé institucional.
