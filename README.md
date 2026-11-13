@@ -15,7 +15,7 @@ Projeto de portfólio pessoal responsivo desenvolvido para a disciplina de **Des
 
 ## Link do Site Publicado
 Acesse o portfólio online pelo GitHub Pages:  
-👉 [https://jeffborgs.github.io/portfolio/](https://jeffborgs2026.github.io/Portif-lio_ETEC_DS1_AG15_2026/)
+👉 [https://jeffborgs.github.io/portfolio/](https://jeffborgs2026.github.io/Portifolio_ETEC_DS1_AG15_2026/)
 
 ## Explicação do Funcionamento do Projeto
 O site funciona como uma página única (*Single Page*) com rolagem suave (`scroll-behavior: smooth`). No topo, uma barra de navegação fixa (`sticky-top`) adapta-se automaticamente a telas de celulares e computadores, permitindo saltar diretamente para qualquer seção por meio de âncoras internas (`#perfil`, `#formacao`, `#projetos` e `#contato`). Logo abaixo do menu, um carousel exibe slides de destaque com controles manuais e automáticos, seguido pelas áreas informativas organizadas em grids responsivos e encerradas por um rodapé institucional.
